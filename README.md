@@ -23,30 +23,48 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Ticket Severity Examples</h2>
+<h2>Ticket Lifecycle Examples</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tdQwOF9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+Creating a ticket
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xy9ubVV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+Intake
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PnZxUGW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+Assignment and Communication
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/R7rVsuF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Working the Issue
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/niFmsiQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Resolution
 
 </p>
 <br />
